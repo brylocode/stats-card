@@ -21,6 +21,7 @@ body {
     color: var(--font-color);
     font-family: 'Montserrat',
         sans-serif;
+    overflow-x: hidden;
 }
 
 .container {
@@ -35,8 +36,6 @@ body {
 .conatiner-shadow {
     display: block;
     position: absolute;
-    /* width: 1263px; */
-    /* height: 690px; */
     background-color: #382F6E;
     right: 73px;
     left: 40px;
